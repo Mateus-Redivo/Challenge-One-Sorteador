@@ -16,5 +16,3 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias e ferramentas:
 1. O usuário insere os nomes dos participantes na interface.
 2. Ao clicar no botão de sortear, o sistema gera pares de amigo secreto de forma aleatória.
 3. Os resultados são exibidos na tela para que os participantes possam ver quem é o seu amigo secreto.
-
-## Contribuição
